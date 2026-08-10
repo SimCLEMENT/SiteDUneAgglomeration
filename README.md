@@ -26,3 +26,9 @@ L'objectif de la SAÉ était de créer, en une journée, un site web en HTML5/CS
 
 - HTML5
 - CSS3
+
+## Auteur 
+- Simon CLEMENT
+- Etienne COLOGON
+- Léandro DE MAZZI
+- Alexandre FOSSE
