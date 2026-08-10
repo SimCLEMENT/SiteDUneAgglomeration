@@ -1,18 +1,30 @@
-<img width="20" height="20" alt="fr" src="https://github.com/user-attachments/assets/2ec80d04-ca10-47e0-a00d-317a2ed1de0e" />
+# Site de la Communauté d'Agglomération de Lisieux Normandie
 
-Ce site a été réalisé dans le cadre d'un projet collaboratif entre 4 étudiants (SAE 4,5,6) en première année de But Informatique. 
-Il a été réalisé en 1 jour, dans le but de faire un site sur la transition écologique pour une agglomération de communes.
-Voici le lien du site :
+Ce site a été réalisé dans le cadre d'un projet collaboratif entre 4 étudiants, en première année de BUT Informatique (SAÉ mutualisée 1.4-5-6).
 
-https://simclement.github.io/SAE1_456/
+🔗 **Voir le site en ligne :** https://simclement.github.io/SAE1_456/
 
+## Contexte
 
+Ce projet s'inscrit dans le cadre du Plan de Déplacements Urbains (PDU) de la région de Normandie. La Communauté d'Agglomération de Lisieux Normandie, qui regroupe 53 communes (73 700 habitants), souhaite élaborer son Plan Local de Déplacements (PLD) afin d'accompagner la réduction du trafic automobile et le rééquilibrage vers d'autres modes de transport.
 
-<img width="20" height="20" alt="gb" src="https://github.com/user-attachments/assets/054968c9-bff7-4902-b338-359895855976" />
+L'objectif de la SAÉ était de créer, en une journée, un site web en HTML5/CSS3 accessible depuis le site de la communauté de communes, permettant de :
+- présenter les enjeux du Plan Local de Déplacements ;
+- dresser un état des lieux des caractéristiques de déplacement des administrés ;
+- exposer le bilan de la transition énergétique en France ;
+- diffuser deux questionnaires (un pour les administrés, un pour les communes) afin de recueillir leurs besoins en matière de déplacements.
 
-This website was created as part of a collaborative project between four students (SAE 4, 5, 6) in their first year of computer science studies.
-It was created in one day, with the aim of creating a website on ecological transition for a group of municipalities.
-Here is the link to the website :
+## Fonctionnalités
 
-https://simclement.github.io/SAE1_456/
+- Une page d'accueil présentant le projet.
+- Un état des lieux des caractéristiques de déplacement de la communauté d'agglomération.
+- Une page présentant le bilan de la transition énergétique en France et les causes de la crise énergétique.
+- Les deux questionnaires destinés aux administrés et aux communes de l'agglomération.
+- Au moins 2 pages réalisées par étudiant, pour un total de 4 contributeurs.
 
+## Langages utilisés
+
+- HTML5
+- CSS3
+
+## Structure du projet
