@@ -2,7 +2,7 @@
 
 Ce site a été réalisé dans le cadre d'un projet collaboratif entre 4 étudiants, en première année de BUT Informatique (SAÉ mutualisée 1.4-5-6).
 
-🔗 **Voir le site en ligne :** https://simclement.github.io/SAE1_456/
+🔗 **Voir le site en ligne :** [https://simclement.github.io/SAE1_456/](https://simclement.github.io/SiteDUneAgglomeration/)
 
 ## Contexte
 
